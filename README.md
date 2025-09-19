@@ -1,6 +1,6 @@
 # Chattahoochee River Monitoring Dashboard
 
-A real-time environmental monitoring dashboard for the Chattahoochee River near Roswell, GA. Displays water temperature trends, weather forecasts, and E.coli safety information from USGS and National Weather Service APIs.
+A vibe coded real-time environmental monitoring dashboard for the Chattahoochee River near Roswell, GA. Displays water temperature trends, weather forecasts, and E.coli safety information from USGS and National Weather Service APIs.
 
 ## Features
 
